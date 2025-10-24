@@ -51,7 +51,7 @@ const Footer = () => {
         <p>
           ~Made with ❤️ by {" "}
           <a
-            href="https://github.com/siddharthj14"
+            href="https://github.com/riya2662"
             target="_blank"
             rel="noopener noreferrer"
             title="Visit my GitHub"
@@ -61,7 +61,7 @@ const Footer = () => {
               fontWeight: "bold",
             }}
           >
-            Siddharth
+            Riya Raj
           </a>
         </p>
       </div>
